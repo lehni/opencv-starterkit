@@ -1,0 +1,12 @@
+{
+  "name": "opencv-starterkit",
+  "version": "0.0.1",
+  "description": "A simple OpenCV Starter-Kit for Paper.js with NPM dependencies",
+  "main": "index.html",
+  "dependencies": {
+    "@mediapipe/camera_utils": "^0.3.1620247984",
+    "acorn": "^8.2.4",
+    "opencv4js": "^3.4.3",
+    "paper": "^0.12.15"
+  }
+}
